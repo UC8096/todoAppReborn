@@ -1,3 +1,3 @@
 import 'package:flutter/material.dart';
 
-part 'spashscreen.dart';
+part 'homepage.dart';
