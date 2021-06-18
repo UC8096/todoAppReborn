@@ -4,3 +4,4 @@ import 'package:todoappreborn/ui/themes/themes.dart';
 
 part 'listbaruyawidget.dart';
 part 'modaltaskbaruwidget.dart';
+part 'modalcreatetaskwidget.dart';

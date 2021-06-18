@@ -60,7 +60,9 @@ class HomePage extends StatelessWidget {
                   color: blackPale,
                   size: 24,
                 ),
-                onPressed: () {},
+                onPressed: () {
+                  showModalCreateTask(context);
+                },
               ),
               TextButton(
                 onPressed: () {
