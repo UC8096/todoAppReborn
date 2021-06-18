@@ -9,3 +9,4 @@ part 'modaltaskbaruwidget.dart';
 part 'modalcreatetaskwidget.dart';
 part 'modalpengaturanwidget.dart';
 part 'taskcardwidget.dart';
+part 'listtaskwidget.dart';
