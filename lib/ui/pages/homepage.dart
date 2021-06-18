@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
         child: Stack(
           children: [
             Center(
-              child: ListBaruYaWidget(),
+              child: ListTaskWidget(),
             ),
             Container(
               width: Get.width,
