@@ -98,7 +98,9 @@ class HomePage extends StatelessWidget {
                   color: blackPale,
                   size: 24,
                 ),
-                onPressed: () {},
+                onPressed: () {
+                  showModalPengaturan(context);
+                },
               ),
             ],
           ),
